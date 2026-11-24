@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.output/
+transcripts.tar.gz
+u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e-kit/
